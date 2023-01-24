@@ -1,0 +1,27 @@
+body{
+    background-color:lightblue;
+}
+.Label{
+    background-color:palevioletred;
+    color:black;
+    font-size: medium;
+}
+.h2{
+    background-color:palevioletred;
+    background-position: 5%;
+    color: White;
+    }
+    #I{
+        border: black  dashed;
+    }
+    .my{
+        font-family: Georgia,;
+        background-color: pink;
+    }
+    #w{
+        background-color: purple;
+        color: aliceblue;
+        border-width: 5%;
+        border-color:black;
+        
+    }
